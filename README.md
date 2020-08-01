@@ -19,4 +19,4 @@ For example:
 Note: Ignore spaces and capitalization. So "d go" is an anagram of "God" and "dog" and "o d g".
 ```
 # Solution
-[Anagrams Solution](Day 1 - Anagrams.ipynb)
+[Anagrams Solution](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%201%20-%20Anagrams.ipynb)
