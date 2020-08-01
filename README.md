@@ -18,3 +18,4 @@ For example:
 "Clint Eastwood" is an anagram of "old west action"
 Note: Ignore spaces and capitalization. So "d go" is an anagram of "God" and "dog" and "o d g".
 ```
+# Solution
