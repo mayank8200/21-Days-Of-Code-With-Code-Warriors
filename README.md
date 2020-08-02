@@ -40,4 +40,4 @@ Output: -1
 No valid pair exists.
 ```
 # Solution
-[Array Sum Solution]()
+[Array Sum Solution](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%202%20-%20Array%20Sum.ipynb)
