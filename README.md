@@ -56,4 +56,4 @@ Output:
 5 is the missing number
 ```
 # Solution
-[Find the Missing Element](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%202%20-%20Array%20Sum.ipynb)
+[Find the Missing Element](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%203%20-%20Find%20the%20Missing%20Element%20.ipynb)
