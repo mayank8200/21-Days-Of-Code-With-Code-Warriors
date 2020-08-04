@@ -57,3 +57,15 @@ Output:
 ```
 # Solution
 [Find the Missing Element](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%203%20-%20Find%20the%20Missing%20Element%20.ipynb)
+
+# Day 4
+```
+Largest Continuous Sum
+Problem
+Given an array of integers (positive and negative) find the largest continuous sum. Example
+a = [-2, -3, 4, -1, -2, 1, 5, -3]
+large_cont_sum(a)
+7
+```
+# Solution
+[Largest Continuous Sum](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%204%20-%20Largest%20Continuous%20Sum%20.ipynb)
