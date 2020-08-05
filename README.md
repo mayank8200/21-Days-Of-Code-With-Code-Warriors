@@ -69,3 +69,35 @@ large_cont_sum(a)
 ```
 # Solution
 [Largest Continuous Sum](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%204%20-%20Largest%20Continuous%20Sum%20.ipynb)
+
+# Day 5
+### Problem 1
+```
+1. Sentence Reversal
+Problem
+Given a string of words, reverse all the words. For example:
+
+Given:
+
+'This is the best'
+Return:
+
+'best the is This'
+As part of this exercise you should remove all leading and trailing whitespace. So that inputs such as:
+
+'  space here'  and 'space here      '
+both become:
+
+'here space'
+```
+### Problem 2
+```
+2. String Compression
+Problem
+Given a string in the form 'AAAABBBBCCCCCDDEEEE' compress it to become 'A4B4C5D2E4'. For this problem, you can falsely "compress" strings of single or double letters. For instance, it is okay for 'AAB' to return 'A2B1' even though this technically takes more space.
+
+The function should also be case sensitive, so that a string 'AAAaaa' returns 'A3a3'.
+```
+# Solution
+[Sentence Reversal and String Compression](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%205%20-%20Sentence%20Reversal%20and%20String%20Compression.ipynb)
+
