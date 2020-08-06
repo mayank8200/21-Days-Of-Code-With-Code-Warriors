@@ -101,3 +101,13 @@ The function should also be case sensitive, so that a string 'AAAaaa' returns 'A
 # Solution
 [Sentence Reversal and String Compression](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%205%20-%20Sentence%20Reversal%20and%20String%20Compression.ipynb)
 
+
+# Day 6
+```
+Unique Characters in String
+Problem
+Given a string,determine if it is compreised of all unique characters. For example, the string 'abcde' has all unique characters and should return True. The string 'aabcde' contains duplicate characters and should return false.
+```
+# Solution
+[Unique Characters in String](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%206%20-%20Unique%20Characters%20in%20a%20String.ipynb)
+
