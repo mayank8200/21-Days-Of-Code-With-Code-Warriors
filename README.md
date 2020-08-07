@@ -111,3 +111,14 @@ Given a string,determine if it is compreised of all unique characters. For examp
 # Solution
 [Unique Characters in String](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%206%20-%20Unique%20Characters%20in%20a%20String.ipynb)
 
+
+# Day 7
+```
+Data Structure Implementation in Python
+* Stack Implementation
+* Queue Implementation
+* Deque Implementation
+```
+# Solution
+[Stack, Queue and Deque Implementation](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%207%20-%20Stack%2C%20Queue%20and%20Deque%20Implementation.ipynb)
+
