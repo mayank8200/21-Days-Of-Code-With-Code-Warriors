@@ -124,11 +124,11 @@ Data Structure Implementation in Python
 
 # After 2 Days of Weekend Break
 
-# Day 7
+# Day 10
 ```
 Given a string of opening and closing parentheses, check whether it’s balanced. We have 3 types of parentheses: round brackets: (), square brackets: [], and curly brackets: {}. Assume that the string doesn’t contain any other character than these, no spaces words or numbers. As a reminder, balanced parentheses require every opening parenthesis to be closed in the reverse order opened. For example ‘([])’ is balanced but ‘([)]’ is not. 
 
 You can assume the input string has no spaces.
 ```
 # Solution
-[Balanced Parenthesis](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%207%20-%20Stack%2C%20Queue%20and%20Deque%20Implementation.ipynb)
+[Balanced Parenthesis](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2010%20-%20Balanced%20Parenthesis%20using%20Stack.ipynb)
