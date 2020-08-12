@@ -145,3 +145,12 @@ Given the Stack class below, implement a Queue class using two stacks! Note, thi
 ```
 # Solution
 [Queue Using 2 Stacks](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2011%20-%20Implement%20Queue%20using%202%20stacks.ipynb)
+
+
+# Day 12
+```
+Convert Decimal Integer to Binary
+In this coding exercise, you are required to use the stack data structure(List can also be used) to convert integer values to their binary equivalent.
+```
+# Solution
+[Decimal Integer to Binary](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2012%20-%20Convert%20Decimal%20into%20Binary.ipynb)
