@@ -154,3 +154,15 @@ In this coding exercise, you are required to use the stack data structure(List c
 ```
 # Solution
 [Decimal Integer to Binary](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2012%20-%20Convert%20Decimal%20into%20Binary.ipynb)
+
+
+# Day 13
+```
+Linked List Insertion
+we’ll implement the class methods to insert elements in a linked list:
+1) append
+2) prepend
+3) insert_after_node
+```
+# Solution
+[Linked List Insertion](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2013%20-%20Singly%20Linked%20List%20Insertion.ipynb)
