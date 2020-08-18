@@ -175,4 +175,4 @@ we’ll implement the class methods to delete and find length of nodes in a link
 2) Find Length iterative and recursively
 ```
 # Solution
-[Linked List Operations](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2013%20-%20Singly%20Linked%20List%20Insertion.ipynb)
+[Linked List Operations](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2018%20-%20Singly%20Linked%20List%20Operations.ipynb)
