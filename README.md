@@ -166,3 +166,13 @@ we’ll implement the class methods to insert elements in a linked list:
 ```
 # Solution
 [Linked List Insertion](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2013%20-%20Singly%20Linked%20List%20Insertion.ipynb)
+
+# Day 18
+```
+Linked List Operations
+we’ll implement the class methods to delete and find length of nodes in a linked list:
+1) Delete nodes by value and position
+2) Find Length iterative and recursively
+```
+# Solution
+[Linked List Operations](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2013%20-%20Singly%20Linked%20List%20Insertion.ipynb)
