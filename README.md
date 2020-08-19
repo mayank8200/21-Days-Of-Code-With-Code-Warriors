@@ -180,7 +180,9 @@ we’ll implement the class methods to delete and find length of nodes in a link
 # Day 19
 ```
 Node Swap in Singly Linked List
-In this lesson, we will continue with our linked list implementation and focus on how to swap two different nodes in a linked list. We will give different keys corresponding to the data elements in the nodes. Now we want to swap the two nodes that contain those two keys.
+In this lesson, we will continue with our linked list implementation and focus on how to swap two different nodes in a linked list.
+We will give different keys corresponding to the data elements in the nodes. 
+Now we want to swap the two nodes that contain those two keys.
 ```
 # Solution
 [Node Swap in Singly Linked List](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2019%20-%20Node%20Swapping%20in%20Singly%20Linked%20List.ipynb)
