@@ -186,3 +186,11 @@ Now we want to swap the two nodes that contain those two keys.
 ```
 # Solution
 [Node Swap in Singly Linked List](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2019%20-%20Node%20Swapping%20in%20Singly%20Linked%20List.ipynb)
+
+# Day 21
+```
+Reverse Node in Singly Linked List
+In this lesson, we will look at how we can reverse a singly linked list in an iterative way
+```
+# Solution
+[Reverse Node in Singly Linked List](https://github.com/mayank8200/21-Days-Of-Code-With-Code-Warriors/blob/master/Day%2021%20-%20Reverse%20Nodes%20in%20Singly%20Linked%20List.ipynb)
